@@ -16,6 +16,7 @@ This is a basic CRUD application for managing blog posts. The project is built u
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="30"/>
 
 </p>
+
 ## Features
 
 - **Create Blog Post**: Add a new blog post with a title and content.
