@@ -1,5 +1,5 @@
 <h1 align='center'>
-Shopping Cart Application
+Blog Posts Application
 </h1>
 <p align='center'>
 This is a basic CRUD application for managing blog posts. The project is built using Next.js, TypeScript, Tailwind CSS, and Prisma. It demonstrates how to create, edit, delete, and retrieve blog posts with a title and content. The application uses PostgreSQL as the database, managed through Docker Compose with pgAdmin for database management.
